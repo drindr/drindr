@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 🛌, I'm Drin
+
+[![card](https://github-readme-stats.vercel.app/api?username=drindr&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=drindr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **drindr/drindr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
