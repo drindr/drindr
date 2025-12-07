@@ -30,7 +30,7 @@ jobs:
 
             - name: Generate stats
               env:
-                  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.USER_PAT }}
               run: bun run start && bun run ./src/render.ts
 
             - uses: stefanzweifel/git-auto-commit-action@v7

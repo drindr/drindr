@@ -1,3 +1,3 @@
-# Hi! I'm Drin.
+# Hi! I'm 🛌 Drin.
 
 ![stat](./stat.svg)
