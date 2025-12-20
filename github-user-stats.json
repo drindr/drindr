@@ -10,10 +10,10 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 341346,
-  "linesAdded": 228814,
-  "linesDeleted": 112532,
-  "commitCount": 248,
+  "linesOfCodeChanged": 341386,
+  "linesAdded": 228836,
+  "linesDeleted": 112550,
+  "commitCount": 249,
   "totalCommits": 286,
   "totalPullRequests": 49,
   "totalPullRequestReviews": 0,
@@ -273,21 +273,21 @@
     }
   ],
   "forkCount": 1,
-  "starCount": 1,
+  "starCount": 2,
   "starsGiven": 183,
   "followers": 5,
   "following": 68,
   "repositoriesContributedTo": 13,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 410,
+  "totalContributions": 411,
   "contributionStats": {
-    "longestStreak": 14,
-    "currentStreak": 14,
+    "longestStreak": 15,
+    "currentStreak": 15,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.14,
     "averagePerWeek": 0.98,
-    "averagePerMonth": 4.2,
+    "averagePerMonth": 4.21,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -675,7 +675,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 30
+        "contributions": 31
       }
     ]
   },
@@ -687,9 +687,9 @@
     "forkedRepos": 31,
     "originalRepos": 14,
     "activeRepos": 38,
-    "reposWithStars": 1,
+    "reposWithStars": 2,
     "reposCreatedThisYear": 34,
-    "averageStarsPerRepo": 0.02
+    "averageStarsPerRepo": 0.04
   },
   "computedStats": {
     "totalRepos": 45,
@@ -699,9 +699,9 @@
     "forkedRepos": 31,
     "originalRepos": 14,
     "activeRepos": 38,
-    "reposWithStars": 1,
+    "reposWithStars": 2,
     "reposCreatedThisYear": 34,
-    "averageStarsPerRepo": 0.02,
+    "averageStarsPerRepo": 0.04,
     "languageCount": 42,
     "primaryLanguage": "C++",
     "primaryLanguageThisYear": "C++",
@@ -770,23 +770,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 343,
+    "contributionsThisYear": 344,
     "contributionsLastYear": 55,
-    "yearOverYearGrowth": 523.64,
+    "yearOverYearGrowth": 525.45,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 289,
+    "totalCommitContributions": 290,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 13,
     "totalRepositoryContributions": 45,
     "totalPullRequestContributions": 49,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 410,
+      "totalContributions": 411,
       "weeks": [
         {
           "contributionDays": [
@@ -14199,8 +14199,12 @@
               "date": "2025-12-18"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2025-12-19"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-20"
             }
           ]
         }
@@ -14208,6 +14212,19 @@
     }
   },
   "topRepos": [
+    {
+      "name": "dora-gazebo",
+      "description": "a Dora node provides bidirectional communication between Gazebo and Dora",
+      "stars": 1,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "topics": [],
+      "updatedAt": "2025-12-19T13:36:05Z",
+      "createdAt": "2025-10-01T05:55:17Z"
+    },
     {
       "name": "dora-by-examples",
       "description": "Learn Dora-rs with examples",
@@ -14324,22 +14341,9 @@
       "topics": [],
       "updatedAt": "2025-10-10T02:52:22Z",
       "createdAt": "2025-10-10T02:52:22Z"
-    },
-    {
-      "name": "dora-gazebo",
-      "description": "a Dora node provides bidirectional communication between Gazebo and Dora",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "topics": [],
-      "updatedAt": "2025-10-07T13:40:51Z",
-      "createdAt": "2025-10-01T05:55:17Z"
     }
   ],
   "closedIssues": 9,
   "openIssues": 4,
-  "fetchedAt": 1766147434296
+  "fetchedAt": 1766233684730
 }
