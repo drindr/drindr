@@ -34,3 +34,5 @@ jobs:
               run: bun run start && bun run ./src/render.ts
 
             - uses: stefanzweifel/git-auto-commit-action@v7
+              with:
+                  commit_author: github-actions[bot] <actions@github.com> 
