@@ -10,11 +10,11 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 343464,
-  "linesAdded": 229970,
-  "linesDeleted": 113494,
-  "commitCount": 262,
-  "totalCommits": 297,
+  "linesOfCodeChanged": 343020,
+  "linesAdded": 229547,
+  "linesDeleted": 113473,
+  "commitCount": 258,
+  "totalCommits": 298,
   "totalPullRequests": 49,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 199751569,
@@ -280,14 +280,14 @@
   "repositoriesContributedTo": 13,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 424,
+  "totalContributions": 426,
   "contributionStats": {
-    "longestStreak": 27,
-    "currentStreak": 27,
+    "longestStreak": 29,
+    "currentStreak": 29,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.14,
     "averagePerWeek": 1.01,
-    "averagePerMonth": 4.33,
+    "averagePerMonth": 4.34,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -676,6 +676,10 @@
       {
         "month": "2025-12",
         "contributions": 44
+      },
+      {
+        "month": "2026-01",
+        "contributions": 2
       }
     ]
   },
@@ -686,9 +690,9 @@
     "archivedRepos": 0,
     "forkedRepos": 31,
     "originalRepos": 14,
-    "activeRepos": 38,
+    "activeRepos": 0,
     "reposWithStars": 2,
-    "reposCreatedThisYear": 34,
+    "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.04
   },
   "computedStats": {
@@ -698,95 +702,34 @@
     "archivedRepos": 0,
     "forkedRepos": 31,
     "originalRepos": 14,
-    "activeRepos": 38,
+    "activeRepos": 0,
     "reposWithStars": 2,
-    "reposCreatedThisYear": 34,
+    "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.04,
     "languageCount": 42,
     "primaryLanguage": "C++",
-    "primaryLanguageThisYear": "C++",
-    "topLanguagesThisYear": [
-      {
-        "languageName": "C++",
-        "color": "#f34b7d",
-        "value": 71665900,
-        "percentage": 36.59
-      },
-      {
-        "languageName": "VHDL",
-        "color": "#adb2cb",
-        "value": 37882719,
-        "percentage": 19.34
-      },
-      {
-        "languageName": "Ada",
-        "color": "#02f88c",
-        "value": 36423314,
-        "percentage": 18.6
-      },
-      {
-        "languageName": "Rust",
-        "color": "#dea584",
-        "value": 25934960,
-        "percentage": 13.24
-      },
-      {
-        "languageName": "WebAssembly",
-        "color": "#04133b",
-        "value": 12129085,
-        "percentage": 6.19
-      },
-      {
-        "languageName": "Verilog",
-        "color": "#b2b7f8",
-        "value": 5783595,
-        "percentage": 2.95
-      },
-      {
-        "languageName": "Tcl",
-        "color": "#e4cc98",
-        "value": 1339151,
-        "percentage": 0.68
-      },
-      {
-        "languageName": "SystemVerilog",
-        "color": "#DAE1C2",
-        "value": 1035234,
-        "percentage": 0.53
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 806286,
-        "percentage": 0.41
-      },
-      {
-        "languageName": "Makefile",
-        "color": "#427819",
-        "value": 704487,
-        "percentage": 0.36
-      }
-    ],
+    "primaryLanguageThisYear": null,
+    "topLanguagesThisYear": [],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 357,
-    "contributionsLastYear": 55,
-    "yearOverYearGrowth": 549.09,
+    "contributionsThisYear": 2,
+    "contributionsLastYear": 357,
+    "yearOverYearGrowth": -99.44,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 302,
+    "totalCommitContributions": 304,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 13,
     "totalRepositoryContributions": 45,
     "totalPullRequestContributions": 49,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 424,
+      "totalContributions": 426,
       "weeks": [
         {
           "contributionDays": [
@@ -14257,6 +14200,18 @@
             {
               "contributionCount": 1,
               "date": "2025-12-31"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-01-01"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 1,
+              "date": "2026-01-01"
             }
           ]
         }
@@ -14397,5 +14352,5 @@
   ],
   "closedIssues": 9,
   "openIssues": 4,
-  "fetchedAt": 1767200085686
+  "fetchedAt": 1767270657076
 }
