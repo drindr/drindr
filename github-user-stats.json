@@ -10,11 +10,11 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 343020,
-  "linesAdded": 229547,
-  "linesDeleted": 113473,
-  "commitCount": 258,
-  "totalCommits": 298,
+  "linesOfCodeChanged": 343464,
+  "linesAdded": 229970,
+  "linesDeleted": 113494,
+  "commitCount": 262,
+  "totalCommits": 303,
   "totalPullRequests": 49,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 199751569,
@@ -280,14 +280,14 @@
   "repositoriesContributedTo": 13,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 426,
+  "totalContributions": 431,
   "contributionStats": {
     "longestStreak": 29,
     "currentStreak": 29,
     "mostActiveDay": "Wednesday",
-    "averagePerDay": 0.14,
-    "averagePerWeek": 1.01,
-    "averagePerMonth": 4.34,
+    "averagePerDay": 0.15,
+    "averagePerWeek": 1.02,
+    "averagePerMonth": 4.39,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -667,11 +667,11 @@
       },
       {
         "month": "2025-10",
-        "contributions": 36
+        "contributions": 40
       },
       {
         "month": "2025-11",
-        "contributions": 45
+        "contributions": 46
       },
       {
         "month": "2025-12",
@@ -690,7 +690,7 @@
     "archivedRepos": 0,
     "forkedRepos": 31,
     "originalRepos": 14,
-    "activeRepos": 0,
+    "activeRepos": 1,
     "reposWithStars": 2,
     "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.04
@@ -702,34 +702,47 @@
     "archivedRepos": 0,
     "forkedRepos": 31,
     "originalRepos": 14,
-    "activeRepos": 0,
+    "activeRepos": 1,
     "reposWithStars": 2,
     "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.04,
     "languageCount": 42,
     "primaryLanguage": "C++",
-    "primaryLanguageThisYear": null,
-    "topLanguagesThisYear": [],
+    "primaryLanguageThisYear": "JavaScript",
+    "topLanguagesThisYear": [
+      {
+        "languageName": "JavaScript",
+        "color": "#f1e05a",
+        "value": 161886,
+        "percentage": 75.86
+      },
+      {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 51507,
+        "percentage": 24.14
+      }
+    ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
     "contributionsThisYear": 2,
-    "contributionsLastYear": 357,
-    "yearOverYearGrowth": -99.44,
+    "contributionsLastYear": 362,
+    "yearOverYearGrowth": -99.45,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 304,
+    "totalCommitContributions": 309,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 13,
     "totalRepositoryContributions": 45,
     "totalPullRequestContributions": 49,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 426,
+      "totalContributions": 431,
       "weeks": [
         {
           "contributionDays": [
@@ -13882,7 +13895,7 @@
               "date": "2025-10-22"
             },
             {
-              "contributionCount": 5,
+              "contributionCount": 9,
               "date": "2025-10-23"
             },
             {
@@ -14030,7 +14043,7 @@
               "date": "2025-11-23"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2025-11-24"
             },
             {
@@ -14212,6 +14225,10 @@
             {
               "contributionCount": 1,
               "date": "2026-01-01"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-02"
             }
           ]
         }
@@ -14352,5 +14369,5 @@
   ],
   "closedIssues": 9,
   "openIssues": 4,
-  "fetchedAt": 1767270657076
+  "fetchedAt": 1767357017873
 }
