@@ -10,10 +10,10 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 343524,
-  "linesAdded": 230028,
-  "linesDeleted": 113496,
-  "commitCount": 263,
+  "linesOfCodeChanged": 298735,
+  "linesAdded": 186937,
+  "linesDeleted": 111798,
+  "commitCount": 214,
   "totalCommits": 303,
   "totalPullRequests": 50,
   "totalPullRequestReviews": 0,
@@ -273,8 +273,8 @@
     }
   ],
   "forkCount": 1,
-  "starCount": 2,
-  "starsGiven": 195,
+  "starCount": 3,
+  "starsGiven": 197,
   "followers": 8,
   "following": 72,
   "repositoriesContributedTo": 13,
@@ -283,7 +283,7 @@
   "totalContributions": 433,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 2,
+    "currentStreak": 0,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.15,
     "averagePerWeek": 1.03,
@@ -690,10 +690,10 @@
     "archivedRepos": 0,
     "forkedRepos": 31,
     "originalRepos": 14,
-    "activeRepos": 1,
-    "reposWithStars": 2,
+    "activeRepos": 2,
+    "reposWithStars": 3,
     "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 0.04
+    "averageStarsPerRepo": 0.07
   },
   "computedStats": {
     "totalRepos": 45,
@@ -702,10 +702,10 @@
     "archivedRepos": 0,
     "forkedRepos": 31,
     "originalRepos": 14,
-    "activeRepos": 1,
-    "reposWithStars": 2,
+    "activeRepos": 2,
+    "reposWithStars": 3,
     "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 0.04,
+    "averageStarsPerRepo": 0.07,
     "languageCount": 42,
     "primaryLanguage": "C++",
     "primaryLanguageThisYear": "JavaScript",
@@ -714,13 +714,19 @@
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 161886,
-        "percentage": 75.86
+        "percentage": 71.78
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 51507,
-        "percentage": 24.14
+        "percentage": 22.84
+      },
+      {
+        "languageName": "Rust",
+        "color": "#dea584",
+        "value": 12137,
+        "percentage": 5.38
       }
     ],
     "totalTopics": 0,
@@ -14267,11 +14273,32 @@
               "date": "2026-01-10"
             }
           ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-01-11"
+            }
+          ]
         }
       ]
     }
   },
   "topRepos": [
+    {
+      "name": "futures-concurrency-dynamic",
+      "description": "a dynamic extension of futures-concurrency",
+      "stars": 1,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "Rust",
+      "topics": [],
+      "updatedAt": "2026-01-11T06:10:11Z",
+      "createdAt": "2025-10-29T15:18:20Z"
+    },
     {
       "name": "dora-gazebo",
       "description": "a Dora node provides bidirectional communication between Gazebo and Dora",
@@ -14351,19 +14378,6 @@
       "createdAt": "2025-11-10T16:41:43Z"
     },
     {
-      "name": "futures-concurrency-dynamic",
-      "description": "a dynamic extension of futures-concurrency",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2025-11-14T11:22:11Z",
-      "createdAt": "2025-10-29T15:18:20Z"
-    },
-    {
       "name": "layout",
       "description": "Layout is a rust library and a tool that renders Graphviz dot files.",
       "stars": 0,
@@ -14405,5 +14419,5 @@
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1768048114527
+  "fetchedAt": 1768134581011
 }
