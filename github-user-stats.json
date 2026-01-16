@@ -10,14 +10,14 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 343750,
-  "linesAdded": 230253,
-  "linesDeleted": 113497,
-  "commitCount": 264,
-  "totalCommits": 304,
+  "linesOfCodeChanged": 335025,
+  "linesAdded": 223565,
+  "linesDeleted": 111460,
+  "commitCount": 228,
+  "totalCommits": 308,
   "totalPullRequests": 50,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 199751540,
+  "codeByteTotal": 199752760,
   "topLanguages": [
     {
       "languageName": "C++",
@@ -124,7 +124,7 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 106856,
+      "value": 108076,
       "percentage": 0.05
     },
     {
@@ -280,14 +280,14 @@
   "repositoriesContributedTo": 13,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 434,
+  "totalContributions": 439,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 0,
+    "currentStreak": 1,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.15,
-    "averagePerWeek": 1.03,
-    "averagePerMonth": 4.4,
+    "averagePerWeek": 1.04,
+    "averagePerMonth": 4.45,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -671,7 +671,7 @@
       },
       {
         "month": "2025-11",
-        "contributions": 46
+        "contributions": 47
       },
       {
         "month": "2025-12",
@@ -679,32 +679,32 @@
       },
       {
         "month": "2026-01",
-        "contributions": 5
+        "contributions": 9
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 45,
-    "publicRepos": 45,
+    "totalRepos": 46,
+    "publicRepos": 46,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 31,
-    "originalRepos": 14,
-    "activeRepos": 3,
+    "originalRepos": 15,
+    "activeRepos": 4,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 0,
+    "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 0.07
   },
   "computedStats": {
-    "totalRepos": 45,
-    "publicRepos": 45,
+    "totalRepos": 46,
+    "publicRepos": 46,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 31,
-    "originalRepos": 14,
-    "activeRepos": 3,
+    "originalRepos": 15,
+    "activeRepos": 4,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 0,
+    "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 0.07,
     "languageCount": 42,
     "primaryLanguage": "C++",
@@ -714,37 +714,43 @@
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 161886,
-        "percentage": 67.23
+        "percentage": 66.89
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 56431,
-        "percentage": 23.44
+        "percentage": 23.32
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
         "value": 12137,
-        "percentage": 5.04
+        "percentage": 5.01
       },
       {
         "languageName": "Emacs Lisp",
         "color": "#c065db",
         "value": 5578,
-        "percentage": 2.32
+        "percentage": 2.3
       },
       {
         "languageName": "SCSS",
         "color": "#c6538c",
         "value": 3008,
-        "percentage": 1.25
+        "percentage": 1.24
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 1492,
         "percentage": 0.62
+      },
+      {
+        "languageName": "Shell",
+        "color": "#89e051",
+        "value": 1220,
+        "percentage": 0.5
       },
       {
         "languageName": "Makefile",
@@ -756,23 +762,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 5,
-    "contributionsLastYear": 362,
-    "yearOverYearGrowth": -98.62,
+    "contributionsThisYear": 9,
+    "contributionsLastYear": 363,
+    "yearOverYearGrowth": -97.52,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 310,
+    "totalCommitContributions": 314,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 45,
+    "totalRepositoryContributions": 46,
     "totalPullRequestContributions": 50,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 434,
+      "totalContributions": 439,
       "weeks": [
         {
           "contributionDays": [
@@ -14093,7 +14099,7 @@
               "date": "2025-11-28"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 4,
               "date": "2025-11-29"
             }
           ]
@@ -14319,6 +14325,10 @@
             {
               "contributionCount": 0,
               "date": "2026-01-15"
+            },
+            {
+              "contributionCount": 4,
+              "date": "2026-01-16"
             }
           ]
         }
@@ -14364,6 +14374,19 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "aur-gui-for-singbox",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "Shell",
+      "topics": [],
+      "updatedAt": "2026-01-16T09:53:42Z",
+      "createdAt": "2026-01-16T09:51:30Z"
     },
     {
       "name": "ros2-client",
@@ -14442,22 +14465,9 @@
       "topics": [],
       "updatedAt": "2025-11-02T09:57:14Z",
       "createdAt": "2025-10-18T09:13:26Z"
-    },
-    {
-      "name": "egui",
-      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2025-10-10T02:52:22Z",
-      "createdAt": "2025-10-10T02:52:22Z"
     }
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1768480398709
+  "fetchedAt": 1768566727631
 }
