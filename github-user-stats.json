@@ -15,33 +15,33 @@
   "linesDeleted": 113607,
   "commitCount": 268,
   "totalCommits": 308,
-  "totalPullRequests": 50,
+  "totalPullRequests": 51,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 199752760,
+  "codeByteTotal": 199856257,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72953032,
-      "percentage": 36.52
+      "percentage": 36.5
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 18.96
+      "percentage": 18.95
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 18.23
+      "percentage": 18.22
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 25934960,
-      "percentage": 12.98
+      "value": 26036594,
+      "percentage": 13.03
     },
     {
       "languageName": "WebAssembly",
@@ -53,13 +53,13 @@
       "languageName": "Verilog",
       "color": "#b2b7f8",
       "value": 5783595,
-      "percentage": 2.9
+      "percentage": 2.89
     },
     {
       "languageName": "C",
       "color": "#555555",
       "value": 1508893,
-      "percentage": 0.76
+      "percentage": 0.75
     },
     {
       "languageName": "Tcl",
@@ -76,7 +76,7 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 884499,
+      "value": 886362,
       "percentage": 0.44
     },
     {
@@ -274,20 +274,20 @@
   ],
   "forkCount": 1,
   "starCount": 3,
-  "starsGiven": 198,
+  "starsGiven": 199,
   "followers": 8,
-  "following": 73,
-  "repositoriesContributedTo": 13,
+  "following": 74,
+  "repositoriesContributedTo": 14,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 439,
+  "totalContributions": 441,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 0,
+    "currentStreak": 1,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.15,
     "averagePerWeek": 1.04,
-    "averagePerMonth": 4.45,
+    "averagePerMonth": 4.47,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -679,33 +679,33 @@
       },
       {
         "month": "2026-01",
-        "contributions": 9
+        "contributions": 11
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 46,
-    "publicRepos": 46,
+    "totalRepos": 47,
+    "publicRepos": 47,
     "privateRepos": 0,
     "archivedRepos": 0,
-    "forkedRepos": 31,
+    "forkedRepos": 32,
     "originalRepos": 15,
-    "activeRepos": 4,
+    "activeRepos": 5,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 0.07
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 0.06
   },
   "computedStats": {
-    "totalRepos": 46,
-    "publicRepos": 46,
+    "totalRepos": 47,
+    "publicRepos": 47,
     "privateRepos": 0,
     "archivedRepos": 0,
-    "forkedRepos": 31,
+    "forkedRepos": 32,
     "originalRepos": 15,
-    "activeRepos": 4,
+    "activeRepos": 5,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 0.07,
+    "reposCreatedThisYear": 2,
+    "averageStarsPerRepo": 0.06,
     "languageCount": 42,
     "primaryLanguage": "C++",
     "primaryLanguageThisYear": "JavaScript",
@@ -714,57 +714,63 @@
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 161886,
-        "percentage": 66.89
+        "percentage": 46.85
+      },
+      {
+        "languageName": "Rust",
+        "color": "#dea584",
+        "value": 113771,
+        "percentage": 32.93
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 56431,
-        "percentage": 23.32
-      },
-      {
-        "languageName": "Rust",
-        "color": "#dea584",
-        "value": 12137,
-        "percentage": 5.01
+        "percentage": 16.33
       },
       {
         "languageName": "Emacs Lisp",
         "color": "#c065db",
         "value": 5578,
-        "percentage": 2.3
+        "percentage": 1.61
       },
       {
         "languageName": "SCSS",
         "color": "#c6538c",
         "value": 3008,
-        "percentage": 1.24
+        "percentage": 0.87
+      },
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 1863,
+        "percentage": 0.54
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 1492,
-        "percentage": 0.62
+        "percentage": 0.43
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
         "value": 1220,
-        "percentage": 0.5
+        "percentage": 0.35
       },
       {
         "languageName": "Makefile",
         "color": "#427819",
         "value": 263,
-        "percentage": 0.11
+        "percentage": 0.08
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 9,
+    "contributionsThisYear": 11,
     "contributionsLastYear": 363,
-    "yearOverYearGrowth": -97.52,
+    "yearOverYearGrowth": -96.97,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
@@ -774,11 +780,11 @@
     "totalCommitContributions": 314,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 46,
-    "totalPullRequestContributions": 50,
+    "totalRepositoryContributions": 47,
+    "totalPullRequestContributions": 51,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 439,
+      "totalContributions": 441,
       "weeks": [
         {
           "contributionDays": [
@@ -14341,6 +14347,10 @@
             {
               "contributionCount": 0,
               "date": "2026-01-18"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-19"
             }
           ]
         }
@@ -14386,6 +14396,19 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "pyo3-special-method-derive",
+      "description": "Automatically derive Python dunder methods for your Rust code",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "Rust",
+      "topics": [],
+      "updatedAt": "2026-01-19T07:51:46Z",
+      "createdAt": "2026-01-19T07:51:46Z"
     },
     {
       "name": "aur-gui-for-singbox",
@@ -14464,22 +14487,9 @@
       "topics": [],
       "updatedAt": "2025-10-21T03:47:35Z",
       "createdAt": "2025-10-19T11:25:22Z"
-    },
-    {
-      "name": "hlstrack2025-45488",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "C++",
-      "topics": [],
-      "updatedAt": "2025-11-02T09:57:14Z",
-      "createdAt": "2025-10-18T09:13:26Z"
     }
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1768739328363
+  "fetchedAt": 1768826189570
 }
