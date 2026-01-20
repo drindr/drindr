@@ -687,10 +687,10 @@
     "totalRepos": 47,
     "publicRepos": 47,
     "privateRepos": 0,
-    "archivedRepos": 0,
+    "archivedRepos": 1,
     "forkedRepos": 32,
     "originalRepos": 15,
-    "activeRepos": 5,
+    "activeRepos": 6,
     "reposWithStars": 3,
     "reposCreatedThisYear": 2,
     "averageStarsPerRepo": 0.06
@@ -699,70 +699,76 @@
     "totalRepos": 47,
     "publicRepos": 47,
     "privateRepos": 0,
-    "archivedRepos": 0,
+    "archivedRepos": 1,
     "forkedRepos": 32,
     "originalRepos": 15,
-    "activeRepos": 5,
+    "activeRepos": 6,
     "reposWithStars": 3,
     "reposCreatedThisYear": 2,
     "averageStarsPerRepo": 0.06,
     "languageCount": 42,
     "primaryLanguage": "C++",
-    "primaryLanguageThisYear": "JavaScript",
+    "primaryLanguageThisYear": "C++",
     "topLanguagesThisYear": [
       {
-        "languageName": "JavaScript",
-        "color": "#f1e05a",
-        "value": 161886,
-        "percentage": 46.85
+        "languageName": "C++",
+        "color": "#f34b7d",
+        "value": 69879364,
+        "percentage": 45.25
       },
       {
-        "languageName": "Rust",
-        "color": "#dea584",
-        "value": 113771,
-        "percentage": 32.93
+        "languageName": "VHDL",
+        "color": "#adb2cb",
+        "value": 37882719,
+        "percentage": 24.53
       },
       {
-        "languageName": "TypeScript",
-        "color": "#3178c6",
-        "value": 56431,
-        "percentage": 16.33
+        "languageName": "Ada",
+        "color": "#02f88c",
+        "value": 36423314,
+        "percentage": 23.59
       },
       {
-        "languageName": "Emacs Lisp",
-        "color": "#c065db",
-        "value": 5578,
-        "percentage": 1.61
+        "languageName": "Verilog",
+        "color": "#b2b7f8",
+        "value": 5783595,
+        "percentage": 3.75
       },
       {
-        "languageName": "SCSS",
-        "color": "#c6538c",
-        "value": 3008,
+        "languageName": "Tcl",
+        "color": "#e4cc98",
+        "value": 1339151,
         "percentage": 0.87
       },
       {
-        "languageName": "Python",
-        "color": "#3572A5",
-        "value": 1863,
-        "percentage": 0.54
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 1492,
-        "percentage": 0.43
-      },
-      {
-        "languageName": "Shell",
-        "color": "#89e051",
-        "value": 1220,
-        "percentage": 0.35
+        "languageName": "SystemVerilog",
+        "color": "#DAE1C2",
+        "value": 1035234,
+        "percentage": 0.67
       },
       {
         "languageName": "Makefile",
         "color": "#427819",
-        "value": 263,
-        "percentage": 0.08
+        "value": 704544,
+        "percentage": 0.46
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 685604,
+        "percentage": 0.44
+      },
+      {
+        "languageName": "LLVM",
+        "color": "#185619",
+        "value": 301128,
+        "percentage": 0.19
+      },
+      {
+        "languageName": "JavaScript",
+        "color": "#f1e05a",
+        "value": 161886,
+        "percentage": 0.1
       }
     ],
     "totalTopics": 0,
@@ -14351,6 +14357,10 @@
             {
               "contributionCount": 2,
               "date": "2026-01-19"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-20"
             }
           ]
         }
@@ -14491,5 +14501,5 @@
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1768826189570
+  "fetchedAt": 1768912598619
 }
