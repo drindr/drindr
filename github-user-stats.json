@@ -10,98 +10,98 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 343942,
-  "linesAdded": 230335,
-  "linesDeleted": 113607,
-  "commitCount": 268,
+  "linesOfCodeChanged": 347842,
+  "linesAdded": 233561,
+  "linesDeleted": 114281,
+  "commitCount": 269,
   "totalCommits": 310,
   "totalPullRequests": 52,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 199856257,
+  "codeByteTotal": 205807626,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72953032,
-      "percentage": 36.5
+      "percentage": 35.45
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 18.95
+      "percentage": 18.41
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 18.22
+      "percentage": 17.7
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 26036594,
-      "percentage": 13.03
+      "value": 31879231,
+      "percentage": 15.49
     },
     {
       "languageName": "WebAssembly",
       "color": "#04133b",
       "value": 12129085,
-      "percentage": 6.07
+      "percentage": 5.89
     },
     {
       "languageName": "Verilog",
       "color": "#b2b7f8",
       "value": 5783595,
-      "percentage": 2.89
+      "percentage": 2.81
     },
     {
       "languageName": "C",
       "color": "#555555",
       "value": 1508893,
-      "percentage": 0.75
+      "percentage": 0.73
     },
     {
       "languageName": "Tcl",
       "color": "#e4cc98",
       "value": 1339151,
-      "percentage": 0.67
+      "percentage": 0.65
     },
     {
       "languageName": "SystemVerilog",
       "color": "#DAE1C2",
       "value": 1035234,
-      "percentage": 0.52
+      "percentage": 0.5
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
       "value": 886362,
-      "percentage": 0.44
+      "percentage": 0.43
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 806200,
-      "percentage": 0.4
+      "percentage": 0.39
     },
     {
       "languageName": "Makefile",
       "color": "#427819",
       "value": 704544,
-      "percentage": 0.35
+      "percentage": 0.34
+    },
+    {
+      "languageName": "JavaScript",
+      "color": "#f1e05a",
+      "value": 557825,
+      "percentage": 0.27
     },
     {
       "languageName": "Emacs Lisp",
       "color": "#c065db",
       "value": 538889,
-      "percentage": 0.27
-    },
-    {
-      "languageName": "JavaScript",
-      "color": "#f1e05a",
-      "value": 462124,
-      "percentage": 0.23
+      "percentage": 0.26
     },
     {
       "languageName": "LLVM",
@@ -124,7 +124,7 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 108076,
+      "value": 108896,
       "percentage": 0.05
     },
     {
@@ -136,7 +136,7 @@
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 82389,
+      "value": 84527,
       "percentage": 0.04
     },
     {
@@ -146,15 +146,15 @@
       "percentage": 0.04
     },
     {
-      "languageName": "Nunjucks",
-      "color": "#3d8137",
-      "value": 60014,
+      "languageName": "Java",
+      "color": "#b07219",
+      "value": 61459,
       "percentage": 0.03
     },
     {
-      "languageName": "Java",
-      "color": "#b07219",
-      "value": 50166,
+      "languageName": "Nunjucks",
+      "color": "#3d8137",
+      "value": 60014,
       "percentage": 0.03
     },
     {
@@ -248,12 +248,6 @@
       "percentage": 0
     },
     {
-      "languageName": "Batchfile",
-      "color": "#C1F12E",
-      "value": 1220,
-      "percentage": 0
-    },
-    {
       "languageName": "Meson",
       "color": "#007800",
       "value": 371,
@@ -280,14 +274,14 @@
   "repositoriesContributedTo": 14,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 444,
+  "totalContributions": 445,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 1,
+    "currentStreak": 2,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.15,
     "averagePerWeek": 1.05,
-    "averagePerMonth": 4.48,
+    "averagePerMonth": 4.49,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -680,103 +674,107 @@
       {
         "month": "2026-01",
         "contributions": 14
+      },
+      {
+        "month": "2026-02",
+        "contributions": 1
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 47,
-    "publicRepos": 47,
+    "totalRepos": 48,
+    "publicRepos": 48,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 32,
+    "forkedRepos": 33,
     "originalRepos": 15,
-    "activeRepos": 6,
+    "activeRepos": 8,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 2,
+    "reposCreatedThisYear": 3,
     "averageStarsPerRepo": 0.06
   },
   "computedStats": {
-    "totalRepos": 47,
-    "publicRepos": 47,
+    "totalRepos": 48,
+    "publicRepos": 48,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 32,
+    "forkedRepos": 33,
     "originalRepos": 15,
-    "activeRepos": 6,
+    "activeRepos": 8,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 2,
+    "reposCreatedThisYear": 3,
     "averageStarsPerRepo": 0.06,
-    "languageCount": 42,
+    "languageCount": 41,
     "primaryLanguage": "C++",
     "primaryLanguageThisYear": "C++",
     "topLanguagesThisYear": [
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 69879364,
-        "percentage": 45.25
+        "value": 69916275,
+        "percentage": 38.12
       },
       {
         "languageName": "VHDL",
         "color": "#adb2cb",
         "value": 37882719,
-        "percentage": 24.53
+        "percentage": 20.66
       },
       {
         "languageName": "Ada",
         "color": "#02f88c",
         "value": 36423314,
-        "percentage": 23.59
+        "percentage": 19.86
+      },
+      {
+        "languageName": "Rust",
+        "color": "#dea584",
+        "value": 16619239,
+        "percentage": 9.06
+      },
+      {
+        "languageName": "WebAssembly",
+        "color": "#04133b",
+        "value": 12129085,
+        "percentage": 6.61
       },
       {
         "languageName": "Verilog",
         "color": "#b2b7f8",
         "value": 5783595,
-        "percentage": 3.75
+        "percentage": 3.15
       },
       {
         "languageName": "Tcl",
         "color": "#e4cc98",
         "value": 1339151,
-        "percentage": 0.87
+        "percentage": 0.73
       },
       {
         "languageName": "SystemVerilog",
         "color": "#DAE1C2",
         "value": 1035234,
-        "percentage": 0.67
+        "percentage": 0.56
       },
       {
         "languageName": "Makefile",
         "color": "#427819",
         "value": 704544,
-        "percentage": 0.46
+        "percentage": 0.38
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 685604,
-        "percentage": 0.44
-      },
-      {
-        "languageName": "LLVM",
-        "color": "#185619",
-        "value": 301128,
-        "percentage": 0.19
-      },
-      {
-        "languageName": "JavaScript",
-        "color": "#f1e05a",
-        "value": 161886,
-        "percentage": 0.1
+        "value": 688762,
+        "percentage": 0.38
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 14,
+    "contributionsThisYear": 15,
     "contributionsLastYear": 363,
-    "yearOverYearGrowth": -96.14,
+    "yearOverYearGrowth": -95.87,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
@@ -786,11 +784,11 @@
     "totalCommitContributions": 316,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 47,
+    "totalRepositoryContributions": 48,
     "totalPullRequestContributions": 52,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 444,
+      "totalContributions": 445,
       "weeks": [
         {
           "contributionDays": [
@@ -14411,6 +14409,14 @@
               "date": "2026-01-31"
             }
           ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 1,
+              "date": "2026-02-01"
+            }
+          ]
         }
       ]
     }
@@ -14454,6 +14460,19 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "dora-studio",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "Rust",
+      "topics": [],
+      "updatedAt": "2026-01-31T19:20:29Z",
+      "createdAt": "2026-01-31T19:20:28Z"
     },
     {
       "name": "pyo3-special-method-derive",
@@ -14532,22 +14551,9 @@
       "topics": [],
       "updatedAt": "2025-11-29T08:40:52Z",
       "createdAt": "2025-11-10T16:41:43Z"
-    },
-    {
-      "name": "layout",
-      "description": "Layout is a rust library and a tool that renders Graphviz dot files.",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2025-10-21T03:47:35Z",
-      "createdAt": "2025-10-19T11:25:22Z"
     }
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1769862832612
+  "fetchedAt": 1769949338822
 }
