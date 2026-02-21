@@ -10,38 +10,38 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 347842,
-  "linesAdded": 233561,
-  "linesDeleted": 114281,
-  "commitCount": 269,
+  "linesOfCodeChanged": 348192,
+  "linesAdded": 233765,
+  "linesDeleted": 114427,
+  "commitCount": 274,
   "totalCommits": 310,
   "totalPullRequests": 52,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 205807626,
+  "codeByteTotal": 205927149,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72953032,
-      "percentage": 35.45
+      "percentage": 35.43
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 18.41
+      "percentage": 18.4
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 17.7
+      "percentage": 17.69
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 31879231,
-      "percentage": 15.49
+      "value": 31981626,
+      "percentage": 15.53
     },
     {
       "languageName": "WebAssembly",
@@ -76,7 +76,7 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 886362,
+      "value": 886607,
       "percentage": 0.43
     },
     {
@@ -124,8 +124,8 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 108896,
-      "percentage": 0.05
+      "value": 125781,
+      "percentage": 0.06
     },
     {
       "languageName": "Stylus",
@@ -202,7 +202,7 @@
     {
       "languageName": "PowerShell",
       "color": "#012456",
-      "value": 6695,
+      "value": 6693,
       "percentage": 0
     },
     {
@@ -268,7 +268,7 @@
   ],
   "forkCount": 1,
   "starCount": 3,
-  "starsGiven": 201,
+  "starsGiven": 202,
   "followers": 6,
   "following": 75,
   "repositoriesContributedTo": 13,
@@ -688,7 +688,7 @@
     "archivedRepos": 1,
     "forkedRepos": 33,
     "originalRepos": 15,
-    "activeRepos": 8,
+    "activeRepos": 9,
     "reposWithStars": 3,
     "reposCreatedThisYear": 3,
     "averageStarsPerRepo": 0.06
@@ -700,7 +700,7 @@
     "archivedRepos": 1,
     "forkedRepos": 33,
     "originalRepos": 15,
-    "activeRepos": 8,
+    "activeRepos": 9,
     "reposWithStars": 3,
     "reposCreatedThisYear": 3,
     "averageStarsPerRepo": 0.06,
@@ -711,44 +711,44 @@
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 69916275,
-        "percentage": 38.12
+        "value": 69920385,
+        "percentage": 37.84
       },
       {
         "languageName": "VHDL",
         "color": "#adb2cb",
         "value": 37882719,
-        "percentage": 20.66
+        "percentage": 20.5
       },
       {
         "languageName": "Ada",
         "color": "#02f88c",
         "value": 36423314,
-        "percentage": 19.86
+        "percentage": 19.71
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 16619239,
-        "percentage": 9.06
+        "value": 17886809,
+        "percentage": 9.68
       },
       {
         "languageName": "WebAssembly",
         "color": "#04133b",
         "value": 12129085,
-        "percentage": 6.61
+        "percentage": 6.56
       },
       {
         "languageName": "Verilog",
         "color": "#b2b7f8",
         "value": 5783595,
-        "percentage": 3.15
+        "percentage": 3.13
       },
       {
         "languageName": "Tcl",
         "color": "#e4cc98",
         "value": 1339151,
-        "percentage": 0.73
+        "percentage": 0.72
       },
       {
         "languageName": "SystemVerilog",
@@ -765,8 +765,8 @@
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 688762,
-        "percentage": 0.38
+        "value": 689116,
+        "percentage": 0.37
       }
     ],
     "totalTopics": 0,
@@ -14499,6 +14499,10 @@
             {
               "contributionCount": 0,
               "date": "2026-02-20"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-02-21"
             }
           ]
         }
@@ -14639,5 +14643,5 @@
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1771591384376
+  "fetchedAt": 1771677237478
 }
