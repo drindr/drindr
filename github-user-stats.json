@@ -14,33 +14,33 @@
   "linesAdded": 233851,
   "linesDeleted": 114437,
   "commitCount": 275,
-  "totalCommits": 312,
+  "totalCommits": 313,
   "totalPullRequests": 54,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 205927149,
+  "codeByteTotal": 205970990,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72953032,
-      "percentage": 35.43
+      "percentage": 35.42
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 18.4
+      "percentage": 18.39
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 17.69
+      "percentage": 17.68
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 31981626,
+      "value": 31984827,
       "percentage": 15.53
     },
     {
@@ -118,14 +118,14 @@
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 134725,
-      "percentage": 0.07
+      "value": 167137,
+      "percentage": 0.08
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 125781,
-      "percentage": 0.06
+      "value": 134009,
+      "percentage": 0.07
     },
     {
       "languageName": "Stylus",
@@ -268,20 +268,20 @@
   ],
   "forkCount": 1,
   "starCount": 3,
-  "starsGiven": 212,
+  "starsGiven": 214,
   "followers": 6,
   "following": 80,
   "repositoriesContributedTo": 13,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 448,
+  "totalContributions": 449,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 0,
+    "currentStreak": 1,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.15,
     "averagePerWeek": 1.04,
-    "averagePerMonth": 4.46,
+    "averagePerMonth": 4.47,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -681,32 +681,32 @@
       },
       {
         "month": "2026-03",
-        "contributions": 1
+        "contributions": 2
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 48,
-    "publicRepos": 48,
+    "totalRepos": 49,
+    "publicRepos": 49,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 33,
+    "forkedRepos": 34,
     "originalRepos": 15,
-    "activeRepos": 10,
+    "activeRepos": 11,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 3,
+    "reposCreatedThisYear": 4,
     "averageStarsPerRepo": 0.06
   },
   "computedStats": {
-    "totalRepos": 48,
-    "publicRepos": 48,
+    "totalRepos": 49,
+    "publicRepos": 49,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 33,
+    "forkedRepos": 34,
     "originalRepos": 15,
-    "activeRepos": 10,
+    "activeRepos": 11,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 3,
+    "reposCreatedThisYear": 4,
     "averageStarsPerRepo": 0.06,
     "languageCount": 41,
     "primaryLanguage": "C++",
@@ -716,7 +716,7 @@
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 69920385,
-        "percentage": 37.84
+        "percentage": 37.83
       },
       {
         "languageName": "VHDL",
@@ -733,7 +733,7 @@
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 17886809,
+        "value": 17890010,
         "percentage": 9.68
       },
       {
@@ -776,9 +776,9 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 18,
+    "contributionsThisYear": 19,
     "contributionsLastYear": 363,
-    "yearOverYearGrowth": -95.04,
+    "yearOverYearGrowth": -94.77,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
@@ -788,11 +788,11 @@
     "totalCommitContributions": 317,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 48,
+    "totalRepositoryContributions": 49,
     "totalPullRequestContributions": 54,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 448,
+      "totalContributions": 449,
       "weeks": [
         {
           "contributionDays": [
@@ -14591,6 +14591,10 @@
             {
               "contributionCount": 0,
               "date": "2026-03-11"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-03-12"
             }
           ]
         }
@@ -14636,6 +14640,19 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "zellij-pane-tracker",
+      "description": "Zellij plugin that exports pane names to JSON for shell integration",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-03-12T12:15:35Z",
+      "createdAt": "2026-03-12T12:15:35Z"
     },
     {
       "name": "dora-studio",
@@ -14714,22 +14731,9 @@
       "topics": [],
       "updatedAt": "2025-11-20T07:31:11Z",
       "createdAt": "2025-11-20T07:30:23Z"
-    },
-    {
-      "name": "drin-dot",
-      "description": "my dotfile repo",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "topics": [],
-      "updatedAt": "2026-03-04T11:22:49Z",
-      "createdAt": "2025-11-10T16:41:43Z"
     }
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1773233009102
+  "fetchedAt": 1773319410078
 }
