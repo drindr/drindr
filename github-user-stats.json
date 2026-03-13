@@ -15,57 +15,57 @@
   "linesDeleted": 114437,
   "commitCount": 275,
   "totalCommits": 313,
-  "totalPullRequests": 54,
+  "totalPullRequests": 55,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 205970990,
+  "codeByteTotal": 208225529,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
-      "value": 72953032,
-      "percentage": 35.42
+      "value": 72957165,
+      "percentage": 35.04
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 18.39
+      "percentage": 18.19
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 17.68
+      "percentage": 17.49
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 31984827,
-      "percentage": 15.53
+      "value": 34085199,
+      "percentage": 16.37
     },
     {
       "languageName": "WebAssembly",
       "color": "#04133b",
       "value": 12129085,
-      "percentage": 5.89
+      "percentage": 5.82
     },
     {
       "languageName": "Verilog",
       "color": "#b2b7f8",
       "value": 5783595,
-      "percentage": 2.81
+      "percentage": 2.78
     },
     {
       "languageName": "C",
       "color": "#555555",
-      "value": 1508893,
+      "value": 1521481,
       "percentage": 0.73
     },
     {
       "languageName": "Tcl",
       "color": "#e4cc98",
       "value": 1339151,
-      "percentage": 0.65
+      "percentage": 0.64
     },
     {
       "languageName": "SystemVerilog",
@@ -76,13 +76,13 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 886607,
-      "percentage": 0.43
+      "value": 987349,
+      "percentage": 0.47
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 806200,
+      "value": 806554,
       "percentage": 0.39
     },
     {
@@ -107,7 +107,7 @@
       "languageName": "LLVM",
       "color": "#185619",
       "value": 301128,
-      "percentage": 0.15
+      "percentage": 0.14
     },
     {
       "languageName": "Zig",
@@ -124,8 +124,8 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 134009,
-      "percentage": 0.07
+      "value": 164223,
+      "percentage": 0.08
     },
     {
       "languageName": "Stylus",
@@ -188,21 +188,21 @@
       "percentage": 0.01
     },
     {
+      "languageName": "PowerShell",
+      "color": "#012456",
+      "value": 10718,
+      "percentage": 0.01
+    },
+    {
       "languageName": "MATLAB",
       "color": "#e16737",
       "value": 10364,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "WGSL",
       "color": "#1a5e9a",
       "value": 8039,
-      "percentage": 0
-    },
-    {
-      "languageName": "PowerShell",
-      "color": "#012456",
-      "value": 6693,
       "percentage": 0
     },
     {
@@ -218,27 +218,27 @@
       "percentage": 0
     },
     {
+      "languageName": "Nix",
+      "color": "#7e7eff",
+      "value": 2991,
+      "percentage": 0
+    },
+    {
       "languageName": "GLSL",
       "color": "#5686a5",
       "value": 2873,
       "percentage": 0
     },
     {
+      "languageName": "Dockerfile",
+      "color": "#384d54",
+      "value": 2182,
+      "percentage": 0
+    },
+    {
       "languageName": "RPC",
       "color": null,
       "value": 1717,
-      "percentage": 0
-    },
-    {
-      "languageName": "Nix",
-      "color": "#7e7eff",
-      "value": 1540,
-      "percentage": 0
-    },
-    {
-      "languageName": "Dockerfile",
-      "color": "#384d54",
-      "value": 1522,
       "percentage": 0
     },
     {
@@ -268,20 +268,20 @@
   ],
   "forkCount": 1,
   "starCount": 3,
-  "starsGiven": 214,
+  "starsGiven": 215,
   "followers": 6,
   "following": 80,
-  "repositoriesContributedTo": 13,
+  "repositoriesContributedTo": 14,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 449,
+  "totalContributions": 451,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 1,
+    "currentStreak": 2,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.15,
-    "averagePerWeek": 1.04,
-    "averagePerMonth": 4.47,
+    "averagePerWeek": 1.05,
+    "averagePerMonth": 4.49,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -681,32 +681,32 @@
       },
       {
         "month": "2026-03",
-        "contributions": 2
+        "contributions": 4
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 49,
-    "publicRepos": 49,
+    "totalRepos": 50,
+    "publicRepos": 50,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 34,
+    "forkedRepos": 35,
     "originalRepos": 15,
-    "activeRepos": 11,
+    "activeRepos": 12,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 4,
+    "reposCreatedThisYear": 5,
     "averageStarsPerRepo": 0.06
   },
   "computedStats": {
-    "totalRepos": 49,
-    "publicRepos": 49,
+    "totalRepos": 50,
+    "publicRepos": 50,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 34,
+    "forkedRepos": 35,
     "originalRepos": 15,
-    "activeRepos": 11,
+    "activeRepos": 12,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 4,
+    "reposCreatedThisYear": 5,
     "averageStarsPerRepo": 0.06,
     "languageCount": 41,
     "primaryLanguage": "C++",
@@ -715,38 +715,38 @@
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 69920385,
-        "percentage": 37.83
+        "value": 69924518,
+        "percentage": 37.38
       },
       {
         "languageName": "VHDL",
         "color": "#adb2cb",
         "value": 37882719,
-        "percentage": 20.5
+        "percentage": 20.25
       },
       {
         "languageName": "Ada",
         "color": "#02f88c",
         "value": 36423314,
-        "percentage": 19.71
+        "percentage": 19.47
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 17890010,
-        "percentage": 9.68
+        "value": 19990382,
+        "percentage": 10.69
       },
       {
         "languageName": "WebAssembly",
         "color": "#04133b",
         "value": 12129085,
-        "percentage": 6.56
+        "percentage": 6.48
       },
       {
         "languageName": "Verilog",
         "color": "#b2b7f8",
         "value": 5783595,
-        "percentage": 3.13
+        "percentage": 3.09
       },
       {
         "languageName": "Tcl",
@@ -758,7 +758,7 @@
         "languageName": "SystemVerilog",
         "color": "#DAE1C2",
         "value": 1035234,
-        "percentage": 0.56
+        "percentage": 0.55
       },
       {
         "languageName": "Makefile",
@@ -769,16 +769,16 @@
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 689116,
+        "value": 689470,
         "percentage": 0.37
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 19,
+    "contributionsThisYear": 21,
     "contributionsLastYear": 363,
-    "yearOverYearGrowth": -94.77,
+    "yearOverYearGrowth": -94.21,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
@@ -788,11 +788,11 @@
     "totalCommitContributions": 317,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 49,
-    "totalPullRequestContributions": 54,
+    "totalRepositoryContributions": 50,
+    "totalPullRequestContributions": 55,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 449,
+      "totalContributions": 451,
       "weeks": [
         {
           "contributionDays": [
@@ -14595,6 +14595,10 @@
             {
               "contributionCount": 1,
               "date": "2026-03-12"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-03-13"
             }
           ]
         }
@@ -14640,6 +14644,19 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "adora",
+      "description": "Agentic Dataflow-Oriented Robotic Architecture -- a 100% Rust framework for real-time robotics and AI applications",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "Rust",
+      "topics": [],
+      "updatedAt": "2026-03-13T07:59:50Z",
+      "createdAt": "2026-03-13T07:59:49Z"
     },
     {
       "name": "zellij-pane-tracker",
@@ -14718,22 +14735,9 @@
       "topics": [],
       "updatedAt": "2025-12-02T05:27:06Z",
       "createdAt": "2025-12-02T05:27:06Z"
-    },
-    {
-      "name": "archpkg",
-      "description": "the application I am using on my Archlinux with AUR or from source",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "Shell",
-      "topics": [],
-      "updatedAt": "2025-11-20T07:31:11Z",
-      "createdAt": "2025-11-20T07:30:23Z"
     }
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1773319410078
+  "fetchedAt": 1773405736088
 }
