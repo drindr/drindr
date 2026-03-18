@@ -10,14 +10,14 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 348288,
-  "linesAdded": 233851,
-  "linesDeleted": 114437,
-  "commitCount": 275,
+  "linesOfCodeChanged": 319984,
+  "linesAdded": 217913,
+  "linesDeleted": 102071,
+  "commitCount": 250,
   "totalCommits": 313,
   "totalPullRequests": 55,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 208225529,
+  "codeByteTotal": 208217473,
   "topLanguages": [
     {
       "languageName": "C++",
@@ -40,14 +40,14 @@
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 34085199,
+      "value": 34081998,
       "percentage": 16.37
     },
     {
       "languageName": "WebAssembly",
       "color": "#04133b",
       "value": 12129085,
-      "percentage": 5.82
+      "percentage": 5.83
     },
     {
       "languageName": "Verilog",
@@ -116,16 +116,16 @@
       "percentage": 0.14
     },
     {
-      "languageName": "TypeScript",
-      "color": "#3178c6",
-      "value": 167137,
-      "percentage": 0.08
-    },
-    {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 164223,
-      "percentage": 0.08
+      "value": 155995,
+      "percentage": 0.07
+    },
+    {
+      "languageName": "TypeScript",
+      "color": "#3178c6",
+      "value": 147627,
+      "percentage": 0.07
     },
     {
       "languageName": "Stylus",
@@ -162,6 +162,12 @@
       "color": "#000080",
       "value": 49475,
       "percentage": 0.02
+    },
+    {
+      "languageName": "Nix",
+      "color": "#7e7eff",
+      "value": 25874,
+      "percentage": 0.01
     },
     {
       "languageName": "Vue",
@@ -215,12 +221,6 @@
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 3008,
-      "percentage": 0
-    },
-    {
-      "languageName": "Nix",
-      "color": "#7e7eff",
-      "value": 2991,
       "percentage": 0
     },
     {
@@ -733,8 +733,8 @@
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 19990382,
-        "percentage": 10.69
+        "value": 19987181,
+        "percentage": 10.68
       },
       {
         "languageName": "WebAssembly",
@@ -14619,6 +14619,10 @@
             {
               "contributionCount": 0,
               "date": "2026-03-17"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-03-18"
             }
           ]
         }
@@ -14686,9 +14690,9 @@
       "isArchived": false,
       "isFork": true,
       "isPrivate": false,
-      "primaryLanguage": "TypeScript",
+      "primaryLanguage": "Nix",
       "topics": [],
-      "updatedAt": "2026-03-12T12:15:35Z",
+      "updatedAt": "2026-03-18T06:15:08Z",
       "createdAt": "2026-03-12T12:15:35Z"
     },
     {
@@ -14759,5 +14763,5 @@
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1773752252222
+  "fetchedAt": 1773838609952
 }
