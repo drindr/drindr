@@ -10,50 +10,50 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 319984,
-  "linesAdded": 217913,
-  "linesDeleted": 102071,
-  "commitCount": 250,
+  "linesOfCodeChanged": 315868,
+  "linesAdded": 214538,
+  "linesDeleted": 101330,
+  "commitCount": 193,
   "totalCommits": 340,
-  "totalPullRequests": 55,
+  "totalPullRequests": 56,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 208217473,
+  "codeByteTotal": 208872695,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72957165,
-      "percentage": 35.04
+      "percentage": 34.93
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 18.19
+      "percentage": 18.14
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 17.49
+      "percentage": 17.44
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
       "value": 34081998,
-      "percentage": 16.37
+      "percentage": 16.32
     },
     {
       "languageName": "WebAssembly",
       "color": "#04133b",
       "value": 12129085,
-      "percentage": 5.83
+      "percentage": 5.81
     },
     {
       "languageName": "Verilog",
       "color": "#b2b7f8",
       "value": 5783595,
-      "percentage": 2.78
+      "percentage": 2.77
     },
     {
       "languageName": "C",
@@ -76,14 +76,20 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 987349,
-      "percentage": 0.47
+      "value": 1004831,
+      "percentage": 0.48
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 806554,
       "percentage": 0.39
+    },
+    {
+      "languageName": "TypeScript",
+      "color": "#3178c6",
+      "value": 785367,
+      "percentage": 0.38
     },
     {
       "languageName": "Makefile",
@@ -119,12 +125,6 @@
       "languageName": "Shell",
       "color": "#89e051",
       "value": 155995,
-      "percentage": 0.07
-    },
-    {
-      "languageName": "TypeScript",
-      "color": "#3178c6",
-      "value": 147627,
       "percentage": 0.07
     },
     {
@@ -268,20 +268,20 @@
   ],
   "forkCount": 1,
   "starCount": 3,
-  "starsGiven": 216,
+  "starsGiven": 217,
   "followers": 7,
   "following": 44,
   "repositoriesContributedTo": 13,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 452,
+  "totalContributions": 454,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 0,
+    "currentStreak": 2,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.15,
-    "averagePerWeek": 1.04,
-    "averagePerMonth": 4.47,
+    "averagePerWeek": 1.05,
+    "averagePerMonth": 4.49,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -681,32 +681,36 @@
       },
       {
         "month": "2026-03",
-        "contributions": 5
+        "contributions": 6
+      },
+      {
+        "month": "2026-04",
+        "contributions": 1
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 50,
-    "publicRepos": 50,
+    "totalRepos": 51,
+    "publicRepos": 51,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 35,
+    "forkedRepos": 36,
     "originalRepos": 15,
-    "activeRepos": 12,
+    "activeRepos": 13,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 5,
+    "reposCreatedThisYear": 6,
     "averageStarsPerRepo": 0.06
   },
   "computedStats": {
-    "totalRepos": 50,
-    "publicRepos": 50,
+    "totalRepos": 51,
+    "publicRepos": 51,
     "privateRepos": 0,
     "archivedRepos": 1,
-    "forkedRepos": 35,
+    "forkedRepos": 36,
     "originalRepos": 15,
-    "activeRepos": 12,
+    "activeRepos": 13,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 5,
+    "reposCreatedThisYear": 6,
     "averageStarsPerRepo": 0.06,
     "languageCount": 41,
     "primaryLanguage": "C++",
@@ -716,43 +720,43 @@
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 69924518,
-        "percentage": 37.38
+        "percentage": 37.25
       },
       {
         "languageName": "VHDL",
         "color": "#adb2cb",
         "value": 37882719,
-        "percentage": 20.25
+        "percentage": 20.18
       },
       {
         "languageName": "Ada",
         "color": "#02f88c",
         "value": 36423314,
-        "percentage": 19.47
+        "percentage": 19.4
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
         "value": 19987181,
-        "percentage": 10.68
+        "percentage": 10.65
       },
       {
         "languageName": "WebAssembly",
         "color": "#04133b",
         "value": 12129085,
-        "percentage": 6.48
+        "percentage": 6.46
       },
       {
         "languageName": "Verilog",
         "color": "#b2b7f8",
         "value": 5783595,
-        "percentage": 3.09
+        "percentage": 3.08
       },
       {
         "languageName": "Tcl",
         "color": "#e4cc98",
         "value": 1339151,
-        "percentage": 0.72
+        "percentage": 0.71
       },
       {
         "languageName": "SystemVerilog",
@@ -761,24 +765,24 @@
         "percentage": 0.55
       },
       {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 709251,
+        "percentage": 0.38
+      },
+      {
         "languageName": "Makefile",
         "color": "#427819",
         "value": 704544,
         "percentage": 0.38
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 689470,
-        "percentage": 0.37
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 22,
+    "contributionsThisYear": 24,
     "contributionsLastYear": 363,
-    "yearOverYearGrowth": -93.94,
+    "yearOverYearGrowth": -93.39,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
@@ -788,11 +792,11 @@
     "totalCommitContributions": 318,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 50,
-    "totalPullRequestContributions": 55,
+    "totalRepositoryContributions": 51,
+    "totalPullRequestContributions": 56,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 452,
+      "totalContributions": 454,
       "weeks": [
         {
           "contributionDays": [
@@ -14681,8 +14685,12 @@
               "date": "2026-03-30"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-03-31"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-04-01"
             }
           ]
         }
@@ -14728,6 +14736,19 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "oh-my-opencode-slim",
+      "description": "Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-03-31T13:49:37Z",
+      "createdAt": "2026-03-31T13:49:36Z"
     },
     {
       "name": "adora",
@@ -14806,22 +14827,9 @@
       "topics": [],
       "updatedAt": "2025-12-05T17:11:51Z",
       "createdAt": "2025-12-05T05:11:45Z"
-    },
-    {
-      "name": "futures-concurrency",
-      "description": "Structured concurrency operations for async Rust",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2025-12-02T05:27:06Z",
-      "createdAt": "2025-12-02T05:27:06Z"
     }
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1774962161504
+  "fetchedAt": 1775048743593
 }
