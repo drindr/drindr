@@ -14,16 +14,16 @@
   "linesAdded": 0,
   "linesDeleted": 0,
   "commitCount": 0,
-  "totalCommits": 369,
+  "totalCommits": 371,
   "totalPullRequests": 56,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 213625797,
+  "codeByteTotal": 213711224,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72957165,
-      "percentage": 34.15
+      "percentage": 34.14
     },
     {
       "languageName": "VHDL",
@@ -35,13 +35,13 @@
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 17.05
+      "percentage": 17.04
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 34241828,
-      "percentage": 16.03
+      "value": 34312956,
+      "percentage": 16.06
     },
     {
       "languageName": "WebAssembly",
@@ -58,8 +58,8 @@
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 5152258,
-      "percentage": 2.41
+      "value": 5164155,
+      "percentage": 2.42
     },
     {
       "languageName": "C",
@@ -88,7 +88,7 @@
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 806554,
+      "value": 806923,
       "percentage": 0.38
     },
     {
@@ -142,7 +142,7 @@
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 102168,
+      "value": 104201,
       "percentage": 0.05
     },
     {
@@ -286,20 +286,20 @@
   ],
   "forkCount": 1,
   "starCount": 3,
-  "starsGiven": 221,
+  "starsGiven": 222,
   "followers": 7,
   "following": 45,
   "repositoriesContributedTo": 12,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 485,
+  "totalContributions": 489,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 0,
+    "currentStreak": 1,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.16,
-    "averagePerWeek": 1.11,
-    "averagePerMonth": 4.77,
+    "averagePerWeek": 1.12,
+    "averagePerMonth": 4.8,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -703,33 +703,33 @@
       },
       {
         "month": "2026-04",
-        "contributions": 5
+        "contributions": 9
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 53,
-    "publicRepos": 53,
+    "totalRepos": 55,
+    "publicRepos": 55,
     "privateRepos": 0,
     "archivedRepos": 1,
     "forkedRepos": 37,
-    "originalRepos": 16,
-    "activeRepos": 15,
+    "originalRepos": 18,
+    "activeRepos": 17,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 8,
-    "averageStarsPerRepo": 0.06
+    "reposCreatedThisYear": 10,
+    "averageStarsPerRepo": 0.05
   },
   "computedStats": {
-    "totalRepos": 53,
-    "publicRepos": 53,
+    "totalRepos": 55,
+    "publicRepos": 55,
     "privateRepos": 0,
     "archivedRepos": 1,
     "forkedRepos": 37,
-    "originalRepos": 16,
-    "activeRepos": 15,
+    "originalRepos": 18,
+    "activeRepos": 17,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 8,
-    "averageStarsPerRepo": 0.06,
+    "reposCreatedThisYear": 10,
+    "averageStarsPerRepo": 0.05,
     "languageCount": 44,
     "primaryLanguage": "C++",
     "primaryLanguageThisYear": "C++",
@@ -738,13 +738,13 @@
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 69924518,
-        "percentage": 36.33
+        "percentage": 36.31
       },
       {
         "languageName": "VHDL",
         "color": "#adb2cb",
         "value": 37882719,
-        "percentage": 19.68
+        "percentage": 19.67
       },
       {
         "languageName": "Ada",
@@ -755,8 +755,8 @@
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 20147011,
-        "percentage": 10.47
+        "value": 20218139,
+        "percentage": 10.5
       },
       {
         "languageName": "WebAssembly",
@@ -773,7 +773,7 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 5076142,
+        "value": 5088039,
         "percentage": 2.64
       },
       {
@@ -798,23 +798,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 29,
+    "contributionsThisYear": 33,
     "contributionsLastYear": 389,
-    "yearOverYearGrowth": -92.54,
+    "yearOverYearGrowth": -91.52,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 347,
+    "totalCommitContributions": 349,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 53,
+    "totalRepositoryContributions": 55,
     "totalPullRequestContributions": 56,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 485,
+      "totalContributions": 489,
       "weeks": [
         {
           "contributionDays": [
@@ -14801,6 +14801,10 @@
             {
               "contributionCount": 0,
               "date": "2026-04-21"
+            },
+            {
+              "contributionCount": 4,
+              "date": "2026-04-22"
             }
           ]
         }
@@ -14846,6 +14850,32 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "cardputer-imu-uart",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "Rust",
+      "topics": [],
+      "updatedAt": "2026-04-22T12:36:52Z",
+      "createdAt": "2026-04-22T12:36:31Z"
+    },
+    {
+      "name": "imu-viz",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-04-22T12:35:34Z",
+      "createdAt": "2026-04-22T12:34:12Z"
     },
     {
       "name": "readest",
@@ -14911,35 +14941,9 @@
       "topics": [],
       "updatedAt": "2026-03-18T06:15:08Z",
       "createdAt": "2026-03-12T12:15:35Z"
-    },
-    {
-      "name": "dora-studio",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2026-01-31T19:20:29Z",
-      "createdAt": "2026-01-31T19:20:28Z"
-    },
-    {
-      "name": "pyo3-special-method-derive",
-      "description": "Automatically derive Python dunder methods for your Rust code",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Rust",
-      "topics": [],
-      "updatedAt": "2026-01-19T07:51:46Z",
-      "createdAt": "2026-01-19T07:51:46Z"
     }
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1776777013982
+  "fetchedAt": 1776863622792
 }
