@@ -14,52 +14,52 @@
   "linesAdded": 0,
   "linesDeleted": 0,
   "commitCount": 0,
-  "totalCommits": 371,
+  "totalCommits": 372,
   "totalPullRequests": 56,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 213711224,
+  "codeByteTotal": 214634938,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72957165,
-      "percentage": 34.14
+      "percentage": 33.99
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 17.73
+      "percentage": 17.65
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 17.04
+      "percentage": 16.97
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 34312956,
-      "percentage": 16.06
+      "value": 35235668,
+      "percentage": 16.42
     },
     {
       "languageName": "WebAssembly",
       "color": "#04133b",
       "value": 12129085,
-      "percentage": 5.68
+      "percentage": 5.65
     },
     {
       "languageName": "Verilog",
       "color": "#b2b7f8",
       "value": 5783595,
-      "percentage": 2.71
+      "percentage": 2.69
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 5164155,
-      "percentage": 2.42
+      "percentage": 2.41
     },
     {
       "languageName": "C",
@@ -71,7 +71,7 @@
       "languageName": "Tcl",
       "color": "#e4cc98",
       "value": 1339151,
-      "percentage": 0.63
+      "percentage": 0.62
     },
     {
       "languageName": "SystemVerilog",
@@ -119,12 +119,12 @@
       "languageName": "Zig",
       "color": "#ec915c",
       "value": 289152,
-      "percentage": 0.14
+      "percentage": 0.13
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 166478,
+      "value": 169588,
       "percentage": 0.08
     },
     {
@@ -206,12 +206,6 @@
       "percentage": 0.01
     },
     {
-      "languageName": "PowerShell",
-      "color": "#012456",
-      "value": 10718,
-      "percentage": 0.01
-    },
-    {
       "languageName": "MATLAB",
       "color": "#e16737",
       "value": 10364,
@@ -221,6 +215,12 @@
       "languageName": "WGSL",
       "color": "#1a5e9a",
       "value": 8039,
+      "percentage": 0
+    },
+    {
+      "languageName": "PowerShell",
+      "color": "#012456",
+      "value": 8038,
       "percentage": 0
     },
     {
@@ -250,7 +250,7 @@
     {
       "languageName": "Dockerfile",
       "color": "#384d54",
-      "value": 2182,
+      "value": 2754,
       "percentage": 0
     },
     {
@@ -292,7 +292,7 @@
   "repositoriesContributedTo": 12,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 489,
+  "totalContributions": 490,
   "contributionStats": {
     "longestStreak": 29,
     "currentStreak": 0,
@@ -687,7 +687,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 51
+        "contributions": 52
       },
       {
         "month": "2026-01",
@@ -714,7 +714,7 @@
     "archivedRepos": 1,
     "forkedRepos": 37,
     "originalRepos": 18,
-    "activeRepos": 17,
+    "activeRepos": 18,
     "reposWithStars": 3,
     "reposCreatedThisYear": 10,
     "averageStarsPerRepo": 0.05
@@ -726,7 +726,7 @@
     "archivedRepos": 1,
     "forkedRepos": 37,
     "originalRepos": 18,
-    "activeRepos": 17,
+    "activeRepos": 18,
     "reposWithStars": 3,
     "reposCreatedThisYear": 10,
     "averageStarsPerRepo": 0.05,
@@ -738,83 +738,83 @@
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 69924518,
-        "percentage": 36.31
+        "percentage": 35.95
       },
       {
         "languageName": "VHDL",
         "color": "#adb2cb",
         "value": 37882719,
-        "percentage": 19.67
+        "percentage": 19.48
       },
       {
         "languageName": "Ada",
         "color": "#02f88c",
         "value": 36423314,
-        "percentage": 18.92
+        "percentage": 18.73
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 20218139,
-        "percentage": 10.5
+        "value": 22132959,
+        "percentage": 11.38
       },
       {
         "languageName": "WebAssembly",
         "color": "#04133b",
         "value": 12129085,
-        "percentage": 6.3
+        "percentage": 6.24
       },
       {
         "languageName": "Verilog",
         "color": "#b2b7f8",
         "value": 5783595,
-        "percentage": 3
+        "percentage": 2.97
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5088039,
-        "percentage": 2.64
+        "percentage": 2.62
       },
       {
         "languageName": "Tcl",
         "color": "#e4cc98",
         "value": 1339151,
-        "percentage": 0.7
+        "percentage": 0.69
       },
       {
         "languageName": "SystemVerilog",
         "color": "#DAE1C2",
         "value": 1035234,
-        "percentage": 0.54
+        "percentage": 0.53
       },
       {
         "languageName": "Makefile",
         "color": "#427819",
         "value": 704544,
-        "percentage": 0.37
+        "percentage": 0.36
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
     "contributionsThisYear": 33,
-    "contributionsLastYear": 389,
-    "yearOverYearGrowth": -91.52,
+    "contributionsLastYear": 390,
+    "yearOverYearGrowth": -91.54,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 349,
+    "totalCommitContributions": 350,
     "restrictedContributionsCount": 13,
     "totalIssueContributions": 14,
     "totalRepositoryContributions": 55,
     "totalPullRequestContributions": 56,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 489,
+      "totalContributions": 490,
       "weeks": [
         {
           "contributionDays": [
@@ -14167,7 +14167,7 @@
               "date": "2025-12-05"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2025-12-06"
             }
           ]
@@ -14829,6 +14829,14 @@
             {
               "contributionCount": 0,
               "date": "2026-04-27"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-04-28"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-04-29"
             }
           ]
         }
@@ -14969,5 +14977,5 @@
   ],
   "closedIssues": 10,
   "openIssues": 4,
-  "fetchedAt": 1777296293458
+  "fetchedAt": 1777470163806
 }
