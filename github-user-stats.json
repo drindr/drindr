@@ -10,38 +10,38 @@
   "websiteUrl": null,
   "createdAt": "2017-12-20T10:17:50Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 375714,
-  "linesAdded": 253984,
+  "linesOfCodeChanged": 381027,
+  "linesAdded": 259297,
   "linesDeleted": 121730,
-  "commitCount": 294,
-  "totalCommits": 375,
+  "commitCount": 296,
+  "totalCommits": 378,
   "totalPullRequests": 56,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 214634938,
+  "codeByteTotal": 214829116,
   "topLanguages": [
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 72957165,
-      "percentage": 33.99
+      "percentage": 33.96
     },
     {
       "languageName": "VHDL",
       "color": "#adb2cb",
       "value": 37882719,
-      "percentage": 17.65
+      "percentage": 17.63
     },
     {
       "languageName": "Ada",
       "color": "#02f88c",
       "value": 36423314,
-      "percentage": 16.97
+      "percentage": 16.95
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 35235668,
-      "percentage": 16.42
+      "value": 35426335,
+      "percentage": 16.49
     },
     {
       "languageName": "WebAssembly",
@@ -59,7 +59,7 @@
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 5164155,
-      "percentage": 2.41
+      "percentage": 2.4
     },
     {
       "languageName": "C",
@@ -124,7 +124,7 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 169588,
+      "value": 173099,
       "percentage": 0.08
     },
     {
@@ -292,14 +292,14 @@
   "repositoriesContributedTo": 10,
   "discussionsStarted": 1,
   "discussionsAnswered": 0,
-  "totalContributions": 492,
+  "totalContributions": 496,
   "contributionStats": {
     "longestStreak": 29,
-    "currentStreak": 0,
+    "currentStreak": 1,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 0.16,
-    "averagePerWeek": 1.1,
-    "averagePerMonth": 4.73,
+    "averagePerWeek": 1.11,
+    "averagePerMonth": 4.77,
     "monthlyBreakdown": [
       {
         "month": "2017-12",
@@ -711,32 +711,32 @@
       },
       {
         "month": "2026-06",
-        "contributions": 2
+        "contributions": 6
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 55,
-    "publicRepos": 55,
+    "totalRepos": 56,
+    "publicRepos": 56,
     "privateRepos": 0,
     "archivedRepos": 1,
     "forkedRepos": 37,
-    "originalRepos": 18,
-    "activeRepos": 18,
+    "originalRepos": 19,
+    "activeRepos": 19,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 10,
+    "reposCreatedThisYear": 11,
     "averageStarsPerRepo": 0.05
   },
   "computedStats": {
-    "totalRepos": 55,
-    "publicRepos": 55,
+    "totalRepos": 56,
+    "publicRepos": 56,
     "privateRepos": 0,
     "archivedRepos": 1,
     "forkedRepos": 37,
-    "originalRepos": 18,
-    "activeRepos": 18,
+    "originalRepos": 19,
+    "activeRepos": 19,
     "reposWithStars": 3,
-    "reposCreatedThisYear": 10,
+    "reposCreatedThisYear": 11,
     "averageStarsPerRepo": 0.05,
     "languageCount": 44,
     "primaryLanguage": "C++",
@@ -746,31 +746,31 @@
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 69924518,
-        "percentage": 35.95
+        "percentage": 35.92
       },
       {
         "languageName": "VHDL",
         "color": "#adb2cb",
         "value": 37882719,
-        "percentage": 19.48
+        "percentage": 19.46
       },
       {
         "languageName": "Ada",
         "color": "#02f88c",
         "value": 36423314,
-        "percentage": 18.73
+        "percentage": 18.71
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 22132959,
-        "percentage": 11.38
+        "value": 22323626,
+        "percentage": 11.47
       },
       {
         "languageName": "WebAssembly",
         "color": "#04133b",
         "value": 12129085,
-        "percentage": 6.24
+        "percentage": 6.23
       },
       {
         "languageName": "Verilog",
@@ -782,7 +782,7 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5088039,
-        "percentage": 2.62
+        "percentage": 2.61
       },
       {
         "languageName": "Tcl",
@@ -806,23 +806,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 36,
+    "contributionsThisYear": 40,
     "contributionsLastYear": 389,
-    "yearOverYearGrowth": -90.75,
+    "yearOverYearGrowth": -89.72,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 68
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 350,
+    "totalCommitContributions": 353,
     "restrictedContributionsCount": 15,
     "totalIssueContributions": 14,
-    "totalRepositoryContributions": 55,
+    "totalRepositoryContributions": 56,
     "totalPullRequestContributions": 56,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 492,
+      "totalContributions": 496,
       "weeks": [
         {
           "contributionDays": [
@@ -15109,6 +15109,10 @@
             {
               "contributionCount": 0,
               "date": "2026-06-26"
+            },
+            {
+              "contributionCount": 4,
+              "date": "2026-06-27"
             }
           ]
         }
@@ -15154,6 +15158,19 @@
       "topics": [],
       "updatedAt": "2025-09-28T04:00:38Z",
       "createdAt": "2025-06-20T08:48:14Z"
+    },
+    {
+      "name": "jd9853-rs",
+      "description": "a driver for jd9853 lcd",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "Rust",
+      "topics": [],
+      "updatedAt": "2026-06-26T16:24:45Z",
+      "createdAt": "2026-06-26T16:21:12Z"
     },
     {
       "name": "cardputer-imu-uart",
@@ -15232,22 +15249,9 @@
       "topics": [],
       "updatedAt": "2026-03-13T07:59:50Z",
       "createdAt": "2026-03-13T07:59:49Z"
-    },
-    {
-      "name": "zellij-pane-tracker",
-      "description": "Zellij plugin that exports pane names to JSON for shell integration",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "Nix",
-      "topics": [],
-      "updatedAt": "2026-03-18T06:15:08Z",
-      "createdAt": "2026-03-12T12:15:35Z"
     }
   ],
   "closedIssues": 11,
   "openIssues": 3,
-  "fetchedAt": 1782483020945
+  "fetchedAt": 1782566355649
 }
